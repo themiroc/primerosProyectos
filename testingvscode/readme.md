@@ -1,0 +1,1 @@
+- ctrl + k + v markdown open a preview to the side

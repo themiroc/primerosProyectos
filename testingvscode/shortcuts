@@ -1,0 +1,18 @@
+VS code shortcuts:     search for them in docs.emmet.io
+    
+    * ctrl + b          Hides navigation left panel
+    * ctrl + shift + p  Minimap toggle off 
+    * ctrl + f          To find and replace words inside de code
+    * ctrl + k + z      To open zen mode
+    * ctrl + p          To search for files in the explorer
+    * ctrl + d          To select a word to be copied or cut
+    * ctrl + shift + p  Opens VS functionalities
+
+    * ctrl + ,          to open the settings
+        'exclude' so explorer doesn't show some files
+
+    ? Extensions
+    * ctrl + alt + n  Advanced New File: choose directory, name the file.
+    * alt + l alt + o   Opens live server
+    * Polacode is to share snipetts of my code, for example, on twitter
+    * Better code (*, !, TODO, ?)

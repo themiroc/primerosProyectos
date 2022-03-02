@@ -1,0 +1,5 @@
+Git repositories \ Source control
+
+git init                iniciar un repositorio
+git status              verificar commits
+ctrl + shift + g + /    opens git command palette
